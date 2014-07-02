@@ -47,10 +47,9 @@
 *jQueryPlugin
    jQuery Plugins writed by others(or me).
 
---------------------------------------------------------------
 
->**Author:** xiao-wen-bin
->**Title:** Student
->**E-mail:** wiktymouse@gmail.com
->          xiaowenbin_999@163.com
->**Address:** Hangzhou Zhejiang, China
+>
+**Author:** xiao-wen-bin  
+**Title:** Student  
+**E-mail:** wiktymouse@gmail.com | xiaowenbin_999@163.com  
+**Address:** Hangzhou Zhejiang, China
