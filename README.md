@@ -1,55 +1,46 @@
-#Some utility functions used in my daily programing.#
+# A mini-lib containing some Javascript utilities
 
-##The list of functions' readme##
-
-*Ajax
+* Ajax
     This directory has some functions for Ajax ability, include GET, POST, Stream, Poll and so on.
-*Animate
+* Animate
     Holds simple html element animating functions.
-*Array
+* Array
     Extend built-in array's ability.
-*Canvas
+* Canvas
     Some functions about HTML5 Canvas.
-*Class
+* Class
     Extend Javascript to support class feature.
-*Cookie
+* Cookie
     Mainpulate cookie string by function.
-*DataType
+* DataType
     Some custom data type, include Single, Mulutal, Set and so on.
-*Debug
+* Debug
     Convenient debug tools.
-*Dom
+* Dom
     Some functions process DOM(Document Object Model).
-*EncodeURL
+* EncodeURL
     Query string convert to Javascript object.
-*Error
+* Error
     Global Error Type define.
-*Event
+* Event
     Event listening and removing.
-*Form
+* Form
     Process html form uitility funcitons.
-*Load
+* Load
     Load data, image or script.
-*Location
+* Location
     Mainpluate document.location string.
-*Math
+* Math
     Uitility functions for math calculate.
-*Object
+* Object
     For all object processing, e.g object clone, merge and so on.
-*Sprite
+* Sprite
     Sprite image.
-*String
+* String
     Extend built-in string methods.
-*Style
+* Style
     Mainpluate element's style sheet.
-*Utility
+* Utility
     Some utility functions.
-*jQueryPlugin
-   jQuery Plugins writed by others(or me).
-
-
->
-**Author:** xiao-wen-bin  
-**Title:** Student  
-**E-mail:** wiktymouse@gmail.com | xiaowenbin_999@163.com  
-**Address:** Hangzhou Zhejiang, China
+* jQueryPlugin
+   jQuery Plug-ins.
